@@ -1,2 +1,2 @@
-*alx* _alx-zero_day_
+_alx-zero_day_
 **README FILE**
